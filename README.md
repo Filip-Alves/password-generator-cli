@@ -13,7 +13,7 @@ Un mini-projet Java de générateur de mots de passe en ligne de commande, déve
 ## Installation
 1. Clonez le projet :
    ```bash
-   git clone https://github.com/ton-nom-utilisateur/password-generator.git
+   git clone https://github.com/Filip-Alves/password-generator-cli.git
    cd password-generator
 
 2. Compilez et exécutez le projet :
